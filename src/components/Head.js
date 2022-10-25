@@ -1,5 +1,5 @@
 import {Box,Text, Heading,Image, Center} from '@chakra-ui/react'
-import photo from '../assets/photo.jpg'
+import photo from './images/photo.jpg'
 
 export function Head() {
 

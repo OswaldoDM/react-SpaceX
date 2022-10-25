@@ -1,6 +1,6 @@
 
 import {Flex,Image,Spacer,Button,Link} from '@chakra-ui/react'
-import logo from '../assets/logo-spacex.png'
+import logo from './images/logo-spacex.png'
 import { MdCall } from "react-icons/md"
 
 export function Header() {
