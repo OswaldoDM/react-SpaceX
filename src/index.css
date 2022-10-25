@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'InterEB';
+    src: url('/public/fonts/Inter-ExtraBold.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+  }
+
+
+
+html {
+
+    scroll-behavior: smooth;
+}
+
+.trans {
+
+    transition: 0.8s;
+}
