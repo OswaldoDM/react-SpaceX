@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'InterEB';
-    src: url('/public/fonts/Inter-ExtraBold.ttf') format('truetype');
+    src: url('/src/components/fonts/Inter-ExtraBold.ttf') format('truetype');
     font-style: normal;
     font-weight: normal;
   }
