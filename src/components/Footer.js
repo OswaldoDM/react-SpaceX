@@ -1,4 +1,4 @@
-import logo from './images/logo-spacex.png'
+import logo from './images/logo.png'
 
 
 export function Footer() {
